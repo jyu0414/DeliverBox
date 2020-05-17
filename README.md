@@ -1,10 +1,10 @@
 # DeliverBox
 
-パイプから流れてくるBoxをトラックに積み込むための道を組み立てるパズルゲーム
+DeliverBox is a puzzle that assembles paths with cards and delivers boxes from pipes to trucks.
 
 ## Usage
 
-- Xcode Playground (動作確認バージョン：11.2.1)
+- Xcode Playground (1.2.1)
 - Swift Playgrounds (iPad)
 
 ## Lisence
